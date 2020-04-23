@@ -5,7 +5,8 @@
 
 def find_min_value(arr)
   i = 0 
-  min = 0 
+  min = 1000
   while i < arr.length do 
+    if 
   end
 end 
