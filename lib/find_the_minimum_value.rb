@@ -15,3 +15,4 @@ def find_min_value(arr)
   end
   return min
 end 
+
