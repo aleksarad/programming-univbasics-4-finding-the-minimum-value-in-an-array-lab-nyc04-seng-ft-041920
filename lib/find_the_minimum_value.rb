@@ -6,4 +6,6 @@
 def find_min_value(arr)
   i = 0 
   min = 0 
+  while i < arr.length do 
+  end
 end 
