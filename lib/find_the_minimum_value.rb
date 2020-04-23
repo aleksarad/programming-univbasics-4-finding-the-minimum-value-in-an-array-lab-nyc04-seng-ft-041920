@@ -16,4 +16,4 @@ def find_min_value(arr)
   return min
 end 
 
-find_min_value([10,5,3,7,19,1,3,10])
+find_min_value([1,2,3,4])
