@@ -7,7 +7,7 @@ def find_min_value(arr)
   i = 0 
   min = arr[0]
   while i < arr.length do 
-    if arr[i] < arr[0]
+    if arr[i] < min
       min = arr[i]
     end
     i += 1
