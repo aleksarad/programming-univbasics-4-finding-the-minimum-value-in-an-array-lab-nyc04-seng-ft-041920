@@ -16,4 +16,4 @@ def find_min_value(arr)
   p min
 end 
 
-find_min_value([17, 24, 35])
+find_min_value([17, 24, 2, 5])
