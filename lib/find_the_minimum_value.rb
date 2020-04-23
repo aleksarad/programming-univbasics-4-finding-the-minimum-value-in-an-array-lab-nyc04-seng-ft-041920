@@ -11,5 +11,6 @@ def find_min_value(arr)
       arr[i] < arr [0]
       min = arr [i]
     end
+    i += 1
   end
 end 
