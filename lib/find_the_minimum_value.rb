@@ -13,7 +13,7 @@ def find_min_value(arr)
     end
     i += 1
   end
-  return min
+  p min
 end 
 
 find_min_value([1,2,3,4])
